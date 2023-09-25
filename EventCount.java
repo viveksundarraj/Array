@@ -21,12 +21,8 @@ public class EventCount {
           }
            System.out.println("The number of even number presented in array : "+count);
            System.out.println("The number of even number presented in array : "+count1);
-<<<<<<< HEAD
 		   System.out.println("vada mapula vaala pala thopula vallyball aadalam va");
-=======
-		   System.out.println("vada mapula vaala pala thopula vallyball aadalam vaa");
->>>>>>> main
-          
+		   System.out.println("vanakkam da mapla maduraila erundhu");
           }
 
 }
